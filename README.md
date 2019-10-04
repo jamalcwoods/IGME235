@@ -36,5 +36,5 @@ Armed with your own Chaser Gear you set off to uncover the mysteries behind thes
 ![Screenshot2]( )
 
 # About The Developer
-![Jamal Woods Profile Picture](https://avatars1.githubusercontent.com/u/7488455?s=460&v=4)
+![Jamal Woods Profile Picture](https://avatars1.githubusercontent.com/u/7488455?s=80&v=2)
 ### Jamal Woods is a 3rd year Game Design and Development Major with a minor in Computer Science. Enjoys making and playing games and creating neat interactive experiments using whatever he is able to learn
