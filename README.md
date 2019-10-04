@@ -18,7 +18,7 @@
 Armed with your own Chaser Gear you set off to uncover the mysteries behind these wayward galaxy wanderers
 
 # Esthetics
-###### Will be using a bright cheery color palette, supported y a up-beat high-tempo soundtrack to set a mood of carefree fun in space
+###### Will be using a bright cheery color palette, supported by an up-beat high-tempo soundtrack to set a mood of carefree fun in space
 
 # Gameplay
 ### Mechanics
