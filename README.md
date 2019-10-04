@@ -1,3 +1,3 @@
 # IGME235
-Repository for IGME235
-Comet Chasers
+Repository for IGME235\n
+>Comet Chasers
