@@ -1,6 +1,3 @@
-# IGME235
-Repository for IGME235
-
 # Comet Chasers
 
 ### Join the galaxy famous Comet Chasers as you chase comets through the stars!
