@@ -2,7 +2,7 @@
 
 ### Join the galaxy famous Comet Chasers as you chase comets through the stars!
 
-# Genere
+# Genre
 ###### 2D, Action, Endless Runner, Platofrmer
 
 # Platform
